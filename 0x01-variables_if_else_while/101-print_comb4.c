@@ -31,6 +31,6 @@ int main(void)
 	}
 	}
 	}
-	puthchar('\n');
+	putchar('\n');
 	return (0);
 }
